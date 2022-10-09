@@ -7,7 +7,7 @@ Only works for UNIX distributions so far. Install using curl or wget.
 
 Navigate to directory you wish to download to.
 ```
-  curl https://github.com/prawnsup/Impy/raw/master/dist/impy-0.1.4-py3-none-any.whl
+  curl https://github.com/prawnsup/Impy/releases/download/Impy/impy-0.1.4-py3-none-any.whl
   pip install impy-0.1.4-py3-none-any.whl
 ```
 
