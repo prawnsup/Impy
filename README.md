@@ -3,7 +3,7 @@ Image manipulation and PDF merging python Command Line Interface (CLI)
 
 # Installation
 
-Only works for UNIX distributions so far. Install using curl or wget.
+Only works for UNIX distributions so far. Install using curl or wget.Python must be installed.
 
 Navigate to directory you wish to download to.
 ```
